@@ -5,4 +5,29 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Zafer/Desktop/EVB_Java&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="C01_TestNGIlkTest.ilkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGTeam105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day14_testNGFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day14_testNGFramework" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14_testNGFramework.C01_TestNGIlkTest" />
+      <option name="METHOD_NAME" value="ilkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C01_TestNGIlkTest.ilkTest" />
+      </list>
+    </recent_temporary>
+  </component>
 </project>
