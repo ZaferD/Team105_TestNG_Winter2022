@@ -8,6 +8,7 @@ public class C01_TestNGIlkTest {
         priority degeri verilen method'lar priority degeri kucukten buyuge dogru calisir
         esit olan priority degerlerinde harf sirasina gore calisir
         eger priority degeri yazmazsak priority=0 kabul edilir
+        xxxx
      */
 
     @Test (priority = 6)
