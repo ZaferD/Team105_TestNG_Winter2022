@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e98c4d-65ad-4a32-9ed8-dc6260e72909" name="Changes" comment="17.11.2023" />
+    <list default="true" id="99e98c4d-65ad-4a32-9ed8-dc6260e72909" name="Changes" comment="17.11.2023">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2YJqthpBhIs0uOkillFDtOHUwLz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,10 +33,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Zafer/OneDrive/Java/EVB_Java/Team105_TestNG_Winter2022"
+    "last_opened_file_path": "C:/Users/Zafer/OneDrive/Java/EVB_Java/de.amazon"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C02_NegetifLoginTesti">
+    <configuration name="C01_PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGTeam105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day16_SmokeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day16_SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.day16_SmokeTests.C01_PozitifLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_TestNGIlkTest.ilkTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGTeam105" />
       <extension name="coverage">
@@ -49,8 +72,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C02_NegetifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGTeam105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day16_SmokeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day16_SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.day16_SmokeTests.C02_NegetifLoginTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_HardAssert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGTeam105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day14_testNGFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day14_testNGFramework" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14_testNGFramework.C04_HardAssert" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_NegetifLoginTesti" />
+        <item itemvalue="TestNG.C01_PozitifLoginTest" />
+        <item itemvalue="TestNG.C04_HardAssert.test01" />
         <item itemvalue="TestNG.C01_TestNGIlkTest.ilkTest" />
         <item itemvalue="TestNG.C01_TestNGIlkTest.ilkTest" />
       </list>
